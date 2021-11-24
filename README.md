@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Redoy</h1>
 <h3 align="center">I am a student and passionate to codding</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=555redoy555&label=Profile%20views&color=0e75b6&style=flat" alt="555redoy555" /> </p>
+
 - 🌱 I’m currently learning **Wed Development, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/555REDOY555?tab=repositories](https://github.com/555REDOY555?tab=repositories)
